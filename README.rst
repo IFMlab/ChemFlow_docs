@@ -6,8 +6,8 @@ ChemFlow |LOGO|
                :alt: Logo
                :align: middle
 
-.. image:: https://readthedocs.org/projects/chemflow/badge/?version=latest
-        :target: https://chemflow.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/chemflow-docs/badge/?version=latest
+        :target: https://chemflow-docs.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
 ChemFlow is a series of computational chemistry workflows designed to automatize and simplify the drug discovery pipeline and scoring function benchmarking.
